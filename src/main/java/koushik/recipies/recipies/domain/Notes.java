@@ -13,7 +13,7 @@ import lombok.EqualsAndHashCode;
 @Data
 @EqualsAndHashCode(exclude = {"recipe"})
 @Entity
-public class Notes  extends BaseEntity{
+public class Notes  {
 
 
     @Id

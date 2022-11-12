@@ -25,7 +25,7 @@ import lombok.Data;
 
 @Data
 @Entity
-public class Recipe  extends BaseEntity{
+public class Recipe {
 
 
     @Id

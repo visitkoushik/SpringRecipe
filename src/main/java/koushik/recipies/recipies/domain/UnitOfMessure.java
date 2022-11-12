@@ -10,7 +10,7 @@ import lombok.Data;
 
 @Data
 @Entity
-public class UnitOfMessure   extends BaseEntity{
+public class UnitOfMessure{
     
 
     @Id

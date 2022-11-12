@@ -16,7 +16,7 @@ import lombok.EqualsAndHashCode;
 @Data
 @EqualsAndHashCode(exclude = {"recipies"})
 @Entity
-public class Category  extends BaseEntity{
+public class Category  {
 
 
     @Id
